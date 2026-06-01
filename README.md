@@ -20,7 +20,7 @@ These credentials can be used for:
 - Termux  
   https://play.google.com/store/apps/details?id=com.termux
   
-- Google Cloud Console
+- Google Cloud Console   
   https://console.cloud.google.com
 
 ---
