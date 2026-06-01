@@ -47,8 +47,7 @@ Then open Termux and run:
 --- 
 
 ```bash
-apt update && apt upgrade -y
-pkg install -y git python python-cryptography python-pip
+apt update && apt upgrade -y && pkg install -y git python python-cryptography python-pip
 ```
 
 Install Google OAuth libraries:
