@@ -15,34 +15,13 @@ These credentials can be used for:
 
 ---
 
-## 🔗 Official References
+## 🔗 Links
 
-- Google OAuth 2.0  
-  https://developers.google.com/identity/protocols/oauth2  
-
-- Google Drive API  
-  https://developers.google.com/drive/api/v3/about-sdk  
-
-- OAuth Client Credentials Guide  
-  https://developers.google.com/workspace/guides/create-credentials  
-
-- Termux (official)  
-  https://f-droid.org/en/packages/com.termux/  
-
-- Cloudflare Workers  
-  https://developers.cloudflare.com/workers/  
-
-- OAuth Native App Flow  
-  https://developers.google.com/identity/protocols/oauth2/native-app  
-
-- Refresh Token Docs  
-  https://developers.google.com/identity/protocols/oauth2#offline  
-
-- Google OAuth Security Policy  
-  https://support.google.com/cloud/answer/9110914  
-
-- Google OAuth Safety Update  
-  https://developers.googleblog.com/2022/02/making-oauth-flows-safer.html  
+- Termux  
+  https://play.google.com/store/apps/details?id=com.termux
+  
+- Google Cloud Console
+  https://console.cloud.google.com
 
 ---
 
