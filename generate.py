@@ -7,9 +7,7 @@ credentials = None
 __G_DRIVE_TOKEN_FILE = "token.pickle"
 __OAUTH_SCOPE = [
     "https://www.googleapis.com/auth/drive",
-    "https://www.googleapis.com/auth/youtube.upload",
-    "https://www.googleapis.com/auth/youtube.readonly",
-    "https://www.googleapis.com/auth/youtube.force-ssl"
+    #"https://www.googleapis.com/auth/youtube"
 ]
 
 json_files = [f for f in os.listdir() if f.endswith(".json")]
