@@ -85,7 +85,7 @@ https://pip.pypa.io/en/stable/installation/
 ---
 
 
-### 2. Fork This Repository
+### 2. Import This Repository
 
 https://github.com/GK-BOTZ/Token-Pickle/fork
 
