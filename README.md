@@ -59,35 +59,9 @@ pip install --upgrade google-auth google-auth-oauthlib google-auth-httplib2 goog
 
 ---
 
-## ⚠️ Fix error: Installing pip is forbidden
-
-If you get:
-
-```
-ERROR: Installing pip is forbidden
-```
-
-Run:
-
-```bash
-curl -sS https://bootstrap.pypa.io/get-pip.py | python
-```
-
-Then reinstall libraries:
-
-```bash
-pip install --upgrade google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
-```
-
-Reference:  
-https://pip.pypa.io/en/stable/installation/
-
----
-
-
 ### 2. Import This Repository
 
-https://github.com/GK-BOTZ/Token-Pickle/fork
+https://github.com/GK-BOTZ/Token-Pickle
 
 ---
 
@@ -98,7 +72,7 @@ Now Upload Your `json` File And name it `credentials.json`
 
 ### 4. Clone The Repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/Token-Pickle
+git clone https://github.com/YOUR_USERNAME/REPO-NAME
 ```
 
 ---
