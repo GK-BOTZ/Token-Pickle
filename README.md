@@ -23,7 +23,7 @@ These credentials can be used for:
 - Google Cloud Console   
   https://console.cloud.google.com
 
-- oauth playground
+- oauth playground                
   https://developers.google.com/oauthplayground
 
 ---
