@@ -117,18 +117,23 @@ Use it in your projects to access Google APIs without re-authenticating.
 
 ## Testing token.pickle
 
-Run This
 ```
 python3 test_token_pickle.py
 ```
 
 ## Extract token.pickle Information To Use Anywhere 
 
-Run This
 ```
 python3 extract_token_pickle.py
 ```
 
+
+## View Raw Data Of token.pickle 
+
+```
+python -c "import pickle; from pprint import pprint; pprint(vars(pickle.load(open('token.pickle', 'rb'))))"
+
+```
 
 ## Credits :-
 https://github.com/subhajit-maji/Gdrive-OAuth-Gen
